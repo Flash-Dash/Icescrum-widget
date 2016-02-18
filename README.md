@@ -6,7 +6,7 @@ The sprint progress is calculated via the velocity/capacity. These figures are a
 Preview:
 
 ![2016-02-17_1729](https://cloud.githubusercontent.com/assets/17084462/13145226/4783704e-d61d-11e5-9d56-5a74e0fdf2ae.png)
-![2016-02-18_1436](https://cloud.githubusercontent.com/assets/17084462/13155724/1074c46a-d64d-11e5-8f64-7181de720b46.png)
+![2016-02-18_1438](https://cloud.githubusercontent.com/assets/17084462/13155786/5fed65ec-d64d-11e5-8c4b-49530036d49b.png)
 
 
 
